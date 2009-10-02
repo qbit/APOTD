@@ -1,0 +1,7 @@
+To use you must have xcode and appscript installed.  If you don't:
+	Install xcode.
+	run "easy_install appscript" as root
+
+Then setup a cron entry to run apotd.py daily
+
+
